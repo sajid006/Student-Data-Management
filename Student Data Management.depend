@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1512307933 source:f:\new folder\student data management\add.c
+	"mteachers.h"
+
+1512229453 f:\new folder\student data management\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<float.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+
+1512208320 source:f:\new folder\student data management\del.c
+	"mteachers.h"
+
+1512314429 source:f:\new folder\student data management\insert.c
+	"mteachers.h"
+
+1512375420 source:f:\new folder\student data management\main.c
+	"headers.h"
+
+1512314429 source:f:\new folder\student data management\mteachers.c
+	"mteachers.h"
+
+1512322771 source:f:\new folder\student data management\search.c
+	"mteachers.h"
+
+1512305153 source:f:\new folder\student data management\show.c
+	"mteachers.h"
+
+1512374454 source:f:\new folder\student data management\update.c
+	"mteachers.h"
+
+1512307350 source:f:\new folder\student data management\showfile.c
+	"mteachers.h"
+
+1512199909 f:\new folder\student data management\mteachers.h
+	"headers.h"
+
+1512199327 f:\new folder\student data management\add.h
+	"headers.h"
+
+1512199353 f:\new folder\student data management\insert.h
+	"headers.h"
+
+1512199287 f:\new folder\student data management\sea.h
+
+1512199343 f:\new folder\student data management\del.h
+	"headers.h"
+
+1512199287 f:\new folder\student data management\update.h
+
+1512199287 f:\new folder\student data management\show.h
+
+1512199287 f:\new folder\student data management\showfile.h
+
+1512384036 source:f:\1607006\student data management\add.c
+	"headers.h"
+
+1512384037 f:\1607006\student data management\mteachers.h
+
+1529774846 f:\1607006\student data management\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<float.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"mteachers.h"
+	"del.h"
+	"insert.h"
+	"sea.h"
+	"show.h"
+	"showfile.h"
+	"update.h"
+	"add.h"
+
+1512384036 source:f:\1607006\student data management\del.c
+	"headers.h"
+
+1512384036 source:f:\1607006\student data management\insert.c
+	"headers.h"
+
+1512384036 source:f:\1607006\student data management\mteachers.c
+	"headers.h"
+
+1512384036 source:f:\1607006\student data management\search.c
+	"headers.h"
+
+1512384036 source:f:\1607006\student data management\show.c
+	"headers.h"
+
+1512384036 source:f:\1607006\student data management\showfile.c
+	"headers.h"
+
+1512384036 source:f:\1607006\student data management\update.c
+	"headers.h"
+
+1512379997 source:f:\1607006\student data management\main.c
+	"headers.h"
+
+1512379997 source:f:\1607006\1607006\main.c
+	"headers.h"
+
+1512384036 f:\1607006\1607006\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<float.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"mteachers.h"
+	"del.h"
+	"insert.h"
+	"sea.h"
+	"show.h"
+	"showfile.h"
+	"update.h"
+
+1512384037 f:\1607006\1607006\mteachers.h
+
+1512384036 f:\1607006\1607006\del.h
+
+1512384036 f:\1607006\1607006\insert.h
+
+1512384036 f:\1607006\1607006\sea.h
+
+1512384036 f:\1607006\1607006\show.h
+
+1512384036 f:\1607006\1607006\showfile.h
+
+1512384036 f:\1607006\1607006\update.h
+
+1512384036 f:\1607006\student data management\del.h
+
+1512384036 f:\1607006\student data management\insert.h
+
+1512384036 f:\1607006\student data management\sea.h
+
+1512384036 f:\1607006\student data management\show.h
+
+1512384036 f:\1607006\student data management\showfile.h
+
+1512384036 f:\1607006\student data management\update.h
+
+1529774898 f:\1607006\student data management\add.h
+

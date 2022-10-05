@@ -1,0 +1,300 @@
+Press any key to continue . . . 
+Press any key to continue . . . 
+Press any key to continue . . . 
+Press any key to continue . . . 
+Press any key to continue . . . 
+Press any key to continue . . . 
+Press any key to continue . . . 
+***********************************************************************************************************************
+                    *********************************************************************
+                                        ***********************************
+                                 Welcome to Student Data Management System of KUET
+                                        ***********************************
+                    *********************************************************************
+***********************************************************************************************************************
+1.Create new data sheet.
+2.Edit existing data sheet.
+3.Exit.
+Course type:
+1.BSc
+2.MSc
+3.Exit
+Name of the Department:
+Semester:
+Year:
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+Please enter the number of students:
+Number of subjects:
+input the informations of student no. 1:
+Name: Roll no: Marks in subject no. 1:Credits in subject no. 1:Marks in subject no. 2:Credits in subject no. 2:Marks in subject no. 3:Credits in subject no. 3:input the informations of student no. 2:
+Name: Roll no: Marks in subject no. 1:Credits in subject no. 1:Marks in subject no. 2:Credits in subject no. 2:Marks in subject no. 3:Credits in subject no. 3:input the informations of student no. 3:
+Name: Roll no: Marks in subject no. 1:Credits in subject no. 1:Marks in subject no. 2:Credits in subject no. 2:Marks in subject no. 3:Credits in subject no. 3:input the informations of student no. 4:
+Name: Roll no: Marks in subject no. 1:Credits in subject no. 1:Marks in subject no. 2:Credits in subject no. 2:Marks in subject no. 3:Credits in subject no. 3:input the informations of student no. 5:
+Name: Roll no: Marks in subject no. 1:Credits in subject no. 1:Marks in subject no. 2:Credits in subject no. 2:Marks in subject no. 3:Credits in subject no. 3:1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+Enter number of subjects:please input the informations of the new student:
+Name: Roll no: Marks in subject no. 1:Credits in subject no. 1:Marks in subject no. 2:Credits in subject no. 2:Marks in subject no. 3:Credits in subject no. 3:1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Search by Roll.
+2.Search by Name.
+Enter the Roll No.:
+Roll no. 125 not found.
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Search by Roll.
+2.Search by Name.
+Enter the Roll No.:
+Information of Roll No. 6:
+
+Name: sajid hasan
+Roll:6
+Merit:1
+Total Marks:264
+Total Credits Earned:9.000000
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Search by Roll.
+2.Search by Name.
+Enter the Name:
+Any student not found.
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Search by Roll.
+2.Search by Name.
+Enter the Name:
+Information of ABC DEF:
+
+Name: ABC DEF
+Roll:12
+Merit:2
+Total Marks:161
+Total Credits Earned:7.500000
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+Update info:
+Enter the Roll No. of the student:
+Subject No.
+1.Update Marks.
+2.Update Credit.
+Updated Mark:
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Show according to Name.
+2.Show according to Merit Position.
+3.Show according to Roll Number.
+************************************************Press any key to continue . . . 
+Press any key to continue . . . 
+Press any key to continue . . . 
+Press any key to continue . . . 
+Press any key to continue . . . 
+***********************************************************************
+                    *********************************************************************
+                                        ***********************************
+                          Result sheet of 2nd year 1st semester BSc students of department of cse:
+
+Merit Position:1
+Name:ABC DEF
+Roll:12
+Total Marks:161
+Total Credit Earned:7.500000
+Merit Position:2
+Name:mk
+Roll:4
+Total Marks:193
+Total Credit Earned:10.500000
+Merit Position:3
+Name:qq
+Roll:3
+Total Marks:221
+Total Credit Earned:6.300000
+Merit Position:4
+Name:sajid hasan
+Roll:6
+Total Marks:8164
+Total Credit Earned:9.000000
+Merit Position:5
+Name:stu v a
+Roll:100
+Total Marks:227
+Total Credit Earned:7.500000
+Merit Position:6
+Name:zmtl
+Roll:1
+Total Marks:183
+Total Credit Earned:7.000000
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Delete by Roll.
+2.Delete by Name.
+Enter Roll to delete:
+Deleted.
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Delete by Roll.
+2.Delete by Name.
+Enter student Name:
+Deleted.
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Show according to Name.
+2.Show according to Merit Position.
+3.Show according to Roll Number.
+***********************************************************************************************************************
+                    *********************************************************************
+                                        ***********************************
+                          Result sheet of 2nd year 1st semester BSc students of department of cse:
+
+Merit Position:2
+Name:mk
+Roll:4
+Total Marks:193
+Total Credit Earned:10.500000
+Merit Position:3
+Name:qq
+Roll:3
+Total Marks:221
+Total Credit Earned:6.300000
+Merit Position:4
+Name:sajid hasan
+Roll:6
+Total Marks:8164
+Total Credit Earned:9.000000
+Merit Position:5
+Name:stu v a
+Roll:100
+Total Marks:227
+Total Credit Earned:7.500000
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Show according to Name.
+2.Show according to Merit Position.
+3.Show according to Roll Number.
+***********************************************************************************************************************
+                    *********************************************************************
+                                        ***********************************
+                          Result sheet of 2nd year 1st semester BSc students of department of cse:
+
+Merit Position:1
+Name:sajid hasan
+Roll:6
+Total Marks:8164
+Total Credit Earned:9.000000
+Merit Position:2
+Name:stu v a
+Roll:100
+Total Marks:227
+Total Credit Earned:7.500000
+Merit Position:3
+Name:qq
+Roll:3
+Total Marks:221
+Total Credit Earned:6.300000
+Merit Position:4
+Name:mk
+Roll:4
+Total Marks:193
+Total Credit Earned:10.500000
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
+1.Show according to Name.
+2.Show according to Merit Position.
+3.Show according to Roll Number.
+***********************************************************************************************************************
+                    *********************************************************************
+                                        ***********************************
+                          Result sheet of 2nd year 1st semester BSc students of department of cse:
+
+Merit Position:3
+Name:qq
+Roll:3
+Total Marks:221
+Total Credit Earned:6.300000
+Merit Position:4
+Name:mk
+Roll:4
+Total Marks:193
+Total Credit Earned:10.500000
+Merit Position:5
+Name:sajid hasan
+Roll:6
+Total Marks:8164
+Total Credit Earned:Press any key to continue . . . 
+9.000000
+Merit Position:6
+Name:stu v a
+Roll:100
+Total Marks:227
+Total Credit Earned:7.500000
+1.Enter students info
+2.Insert info of a new student
+3.Delete info of a student
+4.Search info of a student
+5.Update info of a student
+6.Show Result sheet
+7.Exit.
